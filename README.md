@@ -11,7 +11,8 @@ This is a simple yet functional To-Do List web application built using HTML, CSS
 </ul>
 
 <h3>Screenshot</h3>
-![ToDoList](ToDoList.png)
+![To-Do List App](https://github.com/abhiishekpanchal/TO-DO-LIST/blob/main/ToDoList.png)
+
 
 <br>
 <h3>Getting Started</h3>
