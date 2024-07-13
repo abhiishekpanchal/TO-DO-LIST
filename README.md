@@ -11,15 +11,16 @@ This is a simple yet functional To-Do List web application built using HTML, CSS
 </ul>
 
 <h3>Screenshot</h3>
-![To-Do List App](https://github.com/abhiishekpanchal/TO-DO-LIST/blob/main/ToDoList.png)
+![To-Do List App](ToDoList.png)
 
 
 <br>
 <h3>Getting Started</h3>
 To get a local copy up and running, follow these simple steps:
-
+<br>
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/abhiishekpanchal/TO-DO-LIST-APP.git
+   <br>
 2. **Open the project**:
 Navigate to the project directory and open index.html in your web browser.
